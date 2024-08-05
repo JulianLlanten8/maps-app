@@ -1,6 +1,7 @@
 # maps--app
 
 Aplicacion web que muestra un mapa con la ubicacion de los usuarios y la ubicacion de los lugares de interes cercanos a ellos.
+![screenshot](src/assets/maps-app.png)
 
 ## Project setup
 
